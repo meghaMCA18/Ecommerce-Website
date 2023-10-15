@@ -1,0 +1,21 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>shopping cart</title>
+<style type="text/css">
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+</style>
+</head>
+<body>
+
+<h1><i class="fa fa-shopping-cart"></i></h1>
+<section>
+<duv>
+<img src="0.43.jpg">
+<p>lorem ipsum dolor sit amet,consectetur adipiscingelit. Quidem, quo, modi ea voluptas tempora vero cumque incidunt eum animi</p>
+<h6>$345.89</h6>
+</body>
+
+
+
